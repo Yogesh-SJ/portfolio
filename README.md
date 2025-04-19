@@ -16,7 +16,7 @@ This is a **personal portfolio website** built using **HTML**, **CSS**, and **Ja
 - Skills and experience
 
 ### 🛠️ Services
-- List of domains I work in (e.g., Web Development, Embedded Systems, etc.)
+- List of domains I work in (e.g., Software Development, Embedded Systems, etc.)
 
 ### 📁 Portfolio
 - Showcasing my personal and professional projects
@@ -47,13 +47,13 @@ To run this project locally:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Yogesh-SJ/portfolio.git
 ```
 
 ### Step 2: Navigate to the project folder
 
 ```bash
-cd your-repo-name
+cd portfolio
 ```
 
 ### Step 3: Open the `index.html` file in your browser
