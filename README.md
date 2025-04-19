@@ -44,6 +44,39 @@ This is a **personal portfolio website** built using **HTML**, **CSS**, and **Ja
 
 To run this project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+### Step 1: Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+### Step 2: Navigate to the project folder
+
+```bash
+cd your-repo-name
+```
+
+### Step 3: Open the `index.html` file in your browser
+
+On Windows:  
+Double-click the `index.html` file
+
+On Mac/Linux:
+
+```bash
+open index.html
+```
+
+---
+
+## 💡 Inspiration
+
+This project was inspired and modified from the open-source template by [Md Rasen](https://github.com/MdRasen/Modern-Portfolio-Website?tab=readme-ov-file).
+
+Feel free to use this template for your own portfolio website!
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
