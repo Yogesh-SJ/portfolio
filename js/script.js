@@ -2,8 +2,8 @@
 var typed = new Typed(".typing", {
   strings: [
     "",
-    "Software engineer",
-    "Embedded Software engineer",
+    "Aspiring Software engineer",
+    "Aspiring machine learning engineer",
   ],
   typeSpeed: 100,
   BackSpeed: 60,
