@@ -421,8 +421,8 @@ h3.my-profession {
 }
 
 .about .about-content .personal-info {
-  flex: 0 0 60%;
-  max-width: 60%;
+  flex: 0 0 70%;
+  max-width: 70%;
   margin-top: 40px;
 }
 
@@ -456,8 +456,8 @@ h3.my-profession {
 }
 
 .about .about-content .skills {
-  flex: 0 0 40%;
-  max-width: 40%;
+  flex: 0 0 30%;
+  max-width: 30%;
   margin-top: 40px;
 }
 
@@ -581,8 +581,18 @@ h3.my-profession {
 .about .about-content .timeline .timeline-text {
   line-height: 25px;
   font-size: 16px;
-  text-align: justify;
   color: var(--text-black-700);
+}
+
+.about .about-content .timeline .timeline-text ul {
+  list-style: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.about .about-content .timeline .timeline-text ul li {
+  margin-bottom: 8px;
+  text-align: left;
 }
 
 /* About End */
@@ -593,9 +603,17 @@ h3.my-profession {
 }
 
 .service .service-item {
-  flex: 0 0 33.33%;
-  max-width: 33.33%;
+  flex: 0 0 50%;
+  max-width: 50%;
   margin-bottom: 30px;
+}
+
+.service .service-item:nth-child(odd) {
+  margin-left: auto;
+}
+
+.service .service-item:nth-child(even) {
+  margin-right: auto;
 }
 
 .service .service-item .service-item-inner {

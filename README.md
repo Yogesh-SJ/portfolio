@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio Website
 
-This is a **personal portfolio website** built using **HTML**, **CSS**, and **JavaScript**. It showcases my profile, work, services, blog articles, and includes a contact form. The goal of this website is to present who I am, what I do, and how to contact me.
+This is a **personal portfolio website** built using **HTML**, **CSS**, and **JavaScript**. It showcases my profile, work, services, and blog articles. The goal of this website is to present who I am, what I do, and how to contact me.
 
 ---
 
@@ -9,26 +9,29 @@ This is a **personal portfolio website** built using **HTML**, **CSS**, and **Ja
 ### 🏠 Home
 - Profile photo
 - A short summary/about me
-- Social media links (LinkedIn, GitHub, etc.)
+- Social media links (LinkedIn, LeetCode, HackerRank, GitHub)
 
 ### 👨‍💻 About
 - Detailed information about me
-- Skills and experience
+- Skills: Python, SQL, C Programming
+- Education
+- Experience: Avasoft AI/ML Trainee Engineer
 
 ### 🛠️ Services
-- List of domains I work in (e.g., Software Development, Embedded Systems, etc.)
+- Software Engineering
+- Machine Learning
 
 ### 📁 Portfolio
 - Showcasing my personal and professional projects
 - GitHub links for each project
 
 ### ✍️ Blog
-- A list of articles I’ve written
+- A list of articles I've written
 - Titles and links to Medium posts
 
 ### 📞 Contact
-- Contact form to reach out to me
-- Includes name, email, subject, and message fields
+- Contact information (Email, Phone, City)
+- Freelance availability
 
 ---
 
@@ -58,7 +61,7 @@ cd portfolio
 
 ### Step 3: Open the `index.html` file in your browser
 
-On Windows:  
+On Windows:
 Double-click the `index.html` file
 
 On Mac/Linux:
